@@ -1,0 +1,25 @@
+{
+  "name": "project-3",
+  "version": "1.0.0",
+  "description": "POST: creating a new user\r GET: Get the List of all users",
+  "main": "index.js",
+  "scripts": {
+    "start": "node project.js",
+    "jay": "nodemon project.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yuvarani-1/project-3.git"
+  },
+  "author": "Yuvarani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yuvarani-1/project-3/issues"
+  },
+  "homepage": "https://github.com/Yuvarani-1/project-3#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  },
+  "devDependencies": {}
+}
